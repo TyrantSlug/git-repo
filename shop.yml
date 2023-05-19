@@ -1,3 +1,3 @@
 data:
   test: shop-default
-  SECRET_KEY: aaaaaaaaaa22222
+  SECRET_KEY: aaaaaaaaaa
