@@ -1,4 +1,4 @@
 data:
-  test: shop-default
   SECRET_KEY: aaaaaaaaaa
+  test: shop-default
   KAFKAIP: 172.18.0.101:9092
